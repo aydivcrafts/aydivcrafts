@@ -3,54 +3,54 @@
     "id": "1",
     "product_name": "PHOTO GIFTS/SCRAPBOOKS",
     "url":"/product/photo-gifts/",
-    "img":"/assets/img/products/photo-gift/1.jpg"
+    "img":"/assets/img/products/photogift.jpg"
 },
 {
     "id": "2",
     "product_name": "MDF ALBUMS",
     "url":"/product/mdf-albums/",
-    "img":"/assets/img/products/mdf-albums/1.JPG"
+    "img":"/assets/img/products/mdf.jpg"
 },
 {
     "id": "3",
     "product_name": "CARDS",
     "url":"/product/cards/",
-    "img":"/assets/img/products/cards/1.JPG"
+    "img":"/assets/img/products/card.jpg"
 },
 {
     "id": "4",
     "product_name": "3D CARDS",
     "url":"/product/3d-cards",
-    "img":"/assets/img/products/3d-cards/1.JPG"
+    "img":"/assets/img/products/3dcards.jpg"
 },
 {
     "id": "5",
     "product_name": "ENVELOPES/INVITATIONS",
     "url":"/product/envelopes/",
-    "img":"/assets/img/products/envelopes/1.JPG"
+    "img":"/assets/img/products/envelope.jpg"
 },
 {
     "id": "6",
     "product_name": "FAVORS",
     "url":"/product/favors/",
-    "img":"/assets/img/products/favors-gifts/1.png"
+    "img":"/assets/img/products/favor.jpg"
 },
 {
     "id": "7",
     "product_name": "WALL DÉCOR",
     "url":"/product/wall-decor/",
-    "img":"/assets/img/products/wall-decor/1.JPG"
+    "img":"/assets/img/products/wall.jpg"
 },
 {
     "id": "8",
     "product_name": "DOODLE ART",
     "url":"/product/doodle-art/",
-    "img":"/assets/img/products/doodle/1.jpg"
+    "img":"/assets/img/products/doodles.jpg"
 },
 {
     "id": "9",
     "product_name": "EXPLOSION BOXES",
     "url":"/product/explosion-boxes/",
-    "img":"/assets/img/products/explosion/1.jpg"
+    "img":"/assets/img/products/explosions.jpg"
 }
 ]
