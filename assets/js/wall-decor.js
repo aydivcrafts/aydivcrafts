@@ -10,7 +10,7 @@ $(document).ready(function() {
 
                 product_container += '<div class="row">'
                 product_container += '<div class="col-lg-12 col-md-12 col-sm-12">'
-                product_container += '<h4>' + value.id+') ' + value.product_name + '</h4>'
+                product_container += '<h4>' + value.product_name + '</h4>'
                 product_container += '<br/>'
                 product_container += '</div>'
                 product_container += '</div>'
