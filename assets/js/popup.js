@@ -94,414 +94,541 @@ window.onload = function() {
     var captionText = document.getElementById("caption");
     var span = document.getElementsByClassName("close")[0];
 
+    if(img1 != null){
     img1.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
 
+    if(img2 != null){
     img2.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
 
+    if(img3 != null){
     img3.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
+
+    if(img4 != null){
     img4.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img5 != null){
     img5.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
+
+    if(img6 != null){
     img6.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
+
+    if(img7 != null){
     img7.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
+
+    if(img8 != null){
     img8.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
+
+    if(img9 != null){
     img9.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
+
+    if(img10 != null){
     img10.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+    }
 
+    if(img11 != null){
     img11.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+}
 
+        if(img12 != null){
     img12.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+if(img13 != null){
     img13.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img14 != null){
     img14.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img15 != null){
     img15.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img16 != null){
     img16.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img17 != null){
     img17.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img18 != null){
     img18.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img19 != null){
     img19.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img20 != null){
     img20.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img21 != null){
     img21.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+    if(img22 != null){
     img22.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+    if(img23 != null){
     img23.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img24 != null){
     img24.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img25 != null){
     img25.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img26 != null){
     img26.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img27 != null){
     img27.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img28 != null){
     img28.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img29 != null){
     img29.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img30 != null){
     img30.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+        if(img31 != null){
     img31.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+    if(img32 != null){
     img32.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+    if(img33 != null){
     img33.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img34 != null){
     img34.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img35 != null){
     img35.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+}
+
+if(img36 != null){
     img36.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+}
+
+if(img37 != null){
     img37.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+}
+if(img38 != null){
     img38.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+}
+if(img39 != null){
     img39.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+}
+ if(img40 != null){
     img40.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
-
+}
+if(img41 != null){
     img41.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+if(img42 != null){
     img42.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
+if(img43 != null){
     img43.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
+}
+
+if(img44 != null){
     img44.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img45 != null){
     img45.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img46 != null){
     img46.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img47 != null){
     img47.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img48 != null){
     img48.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img49 != null){
     img49.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img50 != null){
     img50.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img51 != null){
    img51.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img52 != null){
    img52.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+
+    if(img53 != null){
    img53.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img54 != null){
     img54.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img55 != null){
     img55.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img56 != null){
     img56.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img57 != null){
     img57.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img58 != null){
     img58.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img59 != null){
     img59.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img60 != null){
     img60.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img61 != null){
     img61.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img62 != null){
     img62.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img63 != null){
     img63.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img64 != null){
     img64.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img65 != null){
     img65.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img66 != null){
     img66.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img67 != null){
     img67.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img68 != null){
     img68.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img69 != null){
     img69.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img70 != null){
     img70.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img71 != null){
     img71.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img72 != null){
     img72.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img73 != null){
     img73.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img74 != null){
     img74.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img75 != null){
     img75.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img76 != null){
     img76.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img77 != null){
     img77.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img78 != null){
     img78.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
+    if(img79 != null){
     img79.onclick = function() {
         modal.style.display = "block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
-    }
+    }}
 
     span.onclick = function() {
         modal.style.display = "none";
